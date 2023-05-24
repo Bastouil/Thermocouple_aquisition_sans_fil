@@ -28,9 +28,5 @@ La structure de l'archive du projet est la suivante :
 	Dossier comprenant les conceptions 3D sur FUSION 360 de chacun des composants du boitier,
 	ainsi que la modélisation du produit
 
--ThermoWiFi :
-	Dossier de l'application (script pyton) dédiée au thermocouple,
-	ouvir le fichier ThermoWiFi.exe pour lancer l'application
-
 
 JAOUANNE Lilian & GARCON Bastian
